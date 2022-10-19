@@ -9,7 +9,7 @@
     "filename_staging_summary": "staging_summary.csv",
     "filename_rasterization_events": "rasterization_events.csv",
     "filename_rasters_summary": "rasters_summary.csv",
-    "filename_config": "/home/jcohen/sample_data/ingmar-config.json",
+    "filename_config": "/home/jcohen/lake_change_sample/ingmar-config.json",
     "ext_web_tiles": ".png",
     "ext_input": ".shp",
     "ext_staged": ".gpkg",

@@ -14,7 +14,7 @@
         },
         "file_handler": {
             "level": "INFO",
-            "filename": "/home/jcohen/sample_data/log.log",
+            "filename": "/home/jcohen/lake_change_sample/log.log",
             "class": "logging.FileHandler",
             "formatter": "standard"
         }
